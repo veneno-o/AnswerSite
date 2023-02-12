@@ -1,6 +1,5 @@
 {
   "private": true,
-  "author": "xiejie <745007854@qq.com>",
   "scripts": {
     "build": "max build",
     "dev": "max dev",
