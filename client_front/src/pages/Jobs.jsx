@@ -4,7 +4,6 @@ import TypeSelect from '../components/TypeSelect';
 import JobDetail from "../components/JobDetail"
 
 import styles from "../css/Jobs.module.css";
-
 import { Card, Pagination } from "antd";
 
 

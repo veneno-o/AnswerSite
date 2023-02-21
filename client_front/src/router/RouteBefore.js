@@ -18,7 +18,7 @@ function RouteBefore() {
         <Alert
           message="请先登录"
           type="warning"
-          closable
+          closableb
           onClose={closeHandle}
         />
       );

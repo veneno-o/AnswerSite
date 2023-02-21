@@ -46,9 +46,6 @@ function Issue(props) {
         fetchData();
     }, [issueTypeId, pageInfo.current, pageInfo.pageSize])
 
-
-
-
     let questionData = [];
     for (var i = 0; i < issueInfo.length; i++) {
         questionData.push(

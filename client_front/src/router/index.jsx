@@ -14,6 +14,7 @@ import Personal from "../pages/Personal.jsx";
 import AddIssue from "../pages/AddIssue.jsx";
 import SearchPage from "../pages/SearchPage.jsx";
 import NotFound from "../pages/NotFound.jsx";
+// const Books = React.lazy(()=>import("../pages/Books.jsx"));
 
 function RouteConfig() {
   return (
